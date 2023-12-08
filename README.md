@@ -6,12 +6,17 @@ compressed into a .gzip.
 ### Goals for Pipeline:
 - Visualize the data 
   ```
-  Use Case # 1:
-  1. Data aggregated by Type of GitHub Event by Hour
-  2. Push Events aggregated by the commited branch
-  3. Summary of each Event Type
-  4. Breakdown of User Activity by week/month
-  5. Activity breakdown- automated or not: Bots vs Users
+  |Use Case # 1:|
+  |----------- |
+  |1. Data aggregated by Type of GitHub Event by Hour|
+  |Use Case # 2:|
+  |2. Push Events aggregated by the commited branch|
+  |Use Case # 3:|
+  |3. Summary of each Event Type|
+  |Use Case # 4:|
+  |4. Breakdown of User Activity by week/month|
+  |Use Case # 5:|
+  |5. Activity breakdown- automated or not: Bots vs Users|
   ```
   
 ### Team:
